@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f5727a13-4f7e-4d6a-92ba-2da1c9e75ec3)<h1 align="center">Hi 👋, I'm Vipul</h1>
+<h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">A Passionate 3rd Year Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="400" src="![image](https://github.com/user-attachments/assets/8b11aeec-3981-41bb-93c8-218d2acd2d1b)
 ">
