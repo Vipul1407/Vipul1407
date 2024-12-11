@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate 3rd Year Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="400" src="![image](https://github.com/user-attachments/assets/8b11aeec-3981-41bb-93c8-218d2acd2d1b)
 ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul1407&label=Profile%20views&color=0e75b6&style=flat" alt="vipul1407" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul1407&label=Profile%20views&color=0e75b6&style=flat" alt="vipul1407" /> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipul1407](https://github.com/Vipul1407)
 
