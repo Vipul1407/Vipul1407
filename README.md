@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/f5727a13-4f7e-4d6a-92ba-2da1c9e75ec3)<h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">A Passionate 3rd Year Engineering Student</h3>
-<img align="right" alt="coding" width="400" src="400" src="![image](https://github.com/user-attachments/assets/b24e4afc-2867-40a6-b8a9-f78c5a6884da)
+<img align="right" alt="coding" width="400" src="400" src="![image](https://github.com/user-attachments/assets/8b11aeec-3981-41bb-93c8-218d2acd2d1b)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul1407&label=Profile%20views&color=0e75b6&style=flat" alt="vipul1407" /> </p>
 
