@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipul1407](https://github.com/Vipul1407)
 
-- 📫 How to reach me **vipul.vm2004@gmail.com**
+- 📫 How to reach me **vipul.mv2004@gmail.com**
 
 - 📄 My Resume- [https://drive.google.com/file/d/1CTJyQOlMXlRbBcsnf4Yw2rlqcSvkA4wK/view?usp=sharing](https://drive.google.com/file/d/1CTJyQOlMXlRbBcsnf4Yw2rlqcSvkA4wK/view?usp=sharing)
 
