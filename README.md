@@ -28,3 +28,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipul1407&show_icons=true&locale=en" alt="vipul1407" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipul1407&" alt="vipul1407" /></p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Grid Snake Animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+  />
+</picture>
